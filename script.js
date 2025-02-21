@@ -232,12 +232,7 @@ document.addEventListener('keyup', function(event) {
  }
 });
 
-function main1() {
 
-  alert("This is a practive board. \n It is a great way to keep your head up while typing. \n Have Fun!!");
-
-
-}
 
 function level1() {
     
